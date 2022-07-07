@@ -14,3 +14,56 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+.mantine-Container-root {
+  width: 100vw !important;
+}
+
+.mantine-akkprt {
+  padding: 0 !important;
+}
+
+.table {
+  width: 100% !important;
+  border-bottom: 1px solid #dedede;
+}
+
+tr {
+  height: 56px;
+}
+
+
+.table-col {
+  width: 180px !important;
+  white-space: nowrap;
+}
+
+.docs-col {
+  overflow-x: hidden;
+  white-space: nowrap;
+}
+
+.docs-group {
+  white-space: nowrap;
+  display: none;
+}
+
+.collapsed {
+  display: none;
+}
+
+.file-div {
+  color: #2585cf;
+  border: 1px solid #c9c9c9;
+  border-radius: 4px;
+  padding: 6px 12px;
+  margin-right: 12px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.docs-stack {
+  max-height: 188px;
+  overflow-y: scroll;
+}
