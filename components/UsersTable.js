@@ -7,7 +7,7 @@ const elements = [
   { key:1, firstName: "Judy", lastName: "Friedman", salary: 95000, documents: ["Offer.pdf", "Employment.pdf", "Assignment1.pdf", "Assignment2.pdf"] },
   { key:2, firstName: "Dave", lastName: "Gallagher", salary: 87500,
     documents: ["Offer.pdf", "Employment.pdf", "Assignment1.pdf", "Assignment2.pdf", "Assignment3.pdf", "Assignment4.pdf",
-                "Assignment5.pdf", "Assignment6.pdf", "Assignment7.pdf", "Assignment8.pdf", "Assignment9.pdf"] }
+                "Assignment5.pdf", "Assignment6.pdf", "Assignment7.pdf", "Assignment8.pdf", "Assignment9.pdf", "Assignment10.pdf"] }
 ];
 
 
